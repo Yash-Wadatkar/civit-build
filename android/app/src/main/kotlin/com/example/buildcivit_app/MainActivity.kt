@@ -1,0 +1,5 @@
+package com.example.buildcivit_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
